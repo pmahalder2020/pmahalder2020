@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmahalder2020
-- 👀 I’m interested in web development and UI/UX Designing
+- 👀 I’m interested in........
 - 🌱 I’m currently learning about web developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pmahalder2019@gmail.com
